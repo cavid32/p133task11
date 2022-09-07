@@ -1,0 +1,14 @@
+D:\Code Academy\Task3C#\p133\p133\bin\Debug\netcoreapp3.1\p133.exe
+D:\Code Academy\Task3C#\p133\p133\bin\Debug\netcoreapp3.1\p133.deps.json
+D:\Code Academy\Task3C#\p133\p133\bin\Debug\netcoreapp3.1\p133.runtimeconfig.json
+D:\Code Academy\Task3C#\p133\p133\bin\Debug\netcoreapp3.1\p133.runtimeconfig.dev.json
+D:\Code Academy\Task3C#\p133\p133\bin\Debug\netcoreapp3.1\p133.dll
+D:\Code Academy\Task3C#\p133\p133\bin\Debug\netcoreapp3.1\p133.pdb
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.csproj.AssemblyReference.cache
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.AssemblyInfoInputs.cache
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.AssemblyInfo.cs
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.csproj.CoreCompileInputs.cache
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.dll
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.pdb
+D:\Code Academy\Task3C#\p133\p133\obj\Debug\netcoreapp3.1\p133.genruntimeconfig.cache
